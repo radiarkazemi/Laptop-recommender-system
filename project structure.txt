@@ -1,0 +1,38 @@
+-Recommedation sectioan
+	-brand
+	-CPU Brand
+	-CPU Type
+	-CPU Model
+	-Ram
+	-Ram Capacity
+	-Graphic Card
+	-Graphics Card Ram Size
+	-Display
+	-HDD---->check Box
+	-SSD---->Check Box
+-Insert
+	-Brand
+	-Model
+	-CPU Brand
+	-CPU
+	-CPU Model
+	-Ram
+	-Ram Capacity
+	-Graphic Card
+	-Graphic Card Ram Size
+	-Display
+	-HDD
+	-SSD
+	-Link In Amazon*
+
+-Edit
+	-Edit Laptop Info
+	-Delete Laptop
+	
+-Users
+	-Add New User
+	-edit User
+	-Delete User
+
+
+-Settings
